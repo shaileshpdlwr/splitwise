@@ -1,2 +1,2 @@
 # splitwise
-splitwise application 
+Develope splitwise application using gin framework
